@@ -1,7 +1,3 @@
-/*
-2. Circumference of a circle
-Input: radius (double)
-*/
 #include <iostream>
 using namespace std;
 int main(){
