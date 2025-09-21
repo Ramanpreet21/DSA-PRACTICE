@@ -1,6 +1,3 @@
-/*
-1. Average of three integers
-*/
 #include <iostream>
 using namespace std;
 int main() {
